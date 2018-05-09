@@ -36,7 +36,7 @@ piklist (
         'scope' => 'post_meta',
         'field' => 'imgd_home',
         'label' => __('Destacar', 'imgd'),
-        'description'=>__('Colocar este item en la Home Page en la segunda línea','imgd'),
+        'description'=>__('Colocar este item en la Home Page en la segunda sección','imgd'),
         'value' => 0,
         'attributes' => array(
             'class' => 'radio'
