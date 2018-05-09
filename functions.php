@@ -162,3 +162,7 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/inc/woocommerce.php';
 }
+/**
+ * IMGD additions.
+ */
+require get_template_directory() . '/imgd/imgd_funciones.php';
